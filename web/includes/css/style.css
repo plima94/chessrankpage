@@ -1,0 +1,116 @@
+body{
+    
+    padding:0;
+    background-image: linear-gradient(to right, #264653, #2a9d8f ); 
+    color: #e9c46a;
+    
+}
+table{
+    border: 1px solid #f4a261;
+    padding: 5px;
+    font-size: 14px;
+    width: 50%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 1px solid #f4a261;
+    
+}
+
+h1{
+   text-align: center;
+   color: #e9c46a;
+}
+
+form{
+   text-align: center;
+    color: #e9c46a;
+}
+   
+.teste_login_info{
+    font-size: 15px;
+    
+}
+
+
+.barra-login{
+    text-align: right;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    float: none;
+    z-index: auto;
+    width: calc(100% - 40px);
+    height: 20px;;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    margin: 0;
+    padding: 10px 20px;
+    overflow: visible;
+    -o-text-overflow: clip;
+    text-overflow: clip;
+    color: white;
+    background: linear-gradient( #f4a261, #e9c46a ) ;
+    background-position: 50% 50%;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    -webkit-background-size: auto auto;
+    background-size: auto auto;
+    -webkit-box-shadow: 4px 4px 9px 1px rgba(0,0,0,0.2) ;
+    box-shadow: 4px 4px 9px 1px rgba(0,0,0,0.2) ;
+    -webkit-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+    -moz-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+    -o-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+    transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+    -webkit-transform: none;
+    transform: none;
+    -webkit-transform-origin: 50% 50% 0;
+    transform-origin: 50% 50% 0;    
+}
+
+.icon_small{
+    width: 30px;
+    height: 30px;
+}
+
+.registar{
+  float: right;
+  margin-top: 35px;
+ 
+  
+}
+
+/*.botao {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  top: 0;
+  padding: 15px 30px;
+  border: 2px solid #018dc4;
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+  font: normal normal bold 13px/0 Verdana, Geneva, sans-serif;
+  color: rgba(255,255,255,0.9);
+  text-align: justify;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  white-space: pre;
+  word-spacing: 4px;
+  background: #848484;
+  -webkit-box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2) ;
+  box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2) ;
+  text-shadow: -2px -2px 0 rgba(65,66,63,0.66) ;
+  -webkit-transition: transform-origin 300ms cubic-bezier(0.42, 0, 0.58, 1), all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+  -moz-transition: transform-origin 300ms cubic-bezier(0.42, 0, 0.58, 1), all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+  -o-transition: transform-origin 300ms cubic-bezier(0.42, 0, 0.58, 1), all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+  transition: transform-origin 300ms cubic-bezier(0.42, 0, 0.58, 1), all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+}*/
